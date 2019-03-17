@@ -1,0 +1,48 @@
+#allTheTime {
+    font-size: 96px; 
+    color: white; 
+    letter-spacing: 30px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: center; 
+    position: absolute; 
+    top:-100px;
+    text-shadow: 2px 2px black;
+};
+
+#aleshiaZ {
+    color: white; 
+    letter-spacing: 30px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: center; 
+    top:600px;
+    text-shadow: 2px 2px black; 
+};
+
+#skills {
+    color: white; 
+    letter-spacing: 30px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: center; 
+    top:600px;
+    text-shadow: 2px 2px black; 
+}
+
+#mainText {
+    text-align: center; 
+    color: white;
+    color: white; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: center; 
+    position:relative;
+    top:400px;
+    text-shadow: 2px 2px black; 
+};
+
+
+
+.buttons{
+    align-content: center; 
+}
+body {
+    background-image: url("images/Aleshia.jpg"); height: 1640px;
+    };

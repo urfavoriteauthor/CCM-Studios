@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color:black;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+};
+
+.card-body {
+    width:30px;
+};
+
+#bookImage {
+    float: right;
+    width:50%;
+}
+
+#bodyTag {
+    background-image: url("thrillghost.JPG");
+};
+
